@@ -1,2 +1,0 @@
-# Amuchu.github.io
-Sample
